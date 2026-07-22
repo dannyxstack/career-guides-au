@@ -1,0 +1,42 @@
+---
+import Base from '../layouts/Base.astro';
+import { strings } from '../lib/data';
+import { pageLocale, contentLocale, withL } from '../lib/i18n';
+const loc = pageLocale(Astro);
+const t = strings(contentLocale(loc));
+---
+<Base title="Methodology — how the AI Exposure Index is computed | AI Job Risk" description={t.abAiExpA} active="about">
+  <div class="container prose">
+    <h1>Methodology</h1>
+    <section>
+      <h2>{t.abAiExpH}</h2>
+      <p set:html={t.abAiExpA} />
+      <p set:html={t.abAiExpB} />
+    </section>
+    <section>
+      <h2>{t.abS3h}</h2>
+      <p>{t.abS3a}</p>
+      <p>{t.abS3b}</p>
+    </section>
+    <section>
+      <h2>{t.abS7h}</h2>
+      <p>{t.abS7lead}</p>
+    </section>
+    <section>
+      <h2>Occupation ↔ industry mapping</h2>
+      <p>An occupation can belong to several industries — a many-to-many relationship. Membership comes from the BLS National Employment Matrix (threshold ≥1% of the occupation's employment), bridged for non-US countries via the O*NET ESCO/ISCO→SOC crosswalk. Exposure scores reflect the occupation overall, not any single industry.</p>
+    </section>
+    <section>
+      <h2>{t.rkSrcTitle}</h2>
+      <p>{t.rkMethod}</p>
+    </section>
+    <p class="muted note">See also <a href={withL(loc, '/about')}>About</a>.</p>
+  </div>
+  <style>
+    .prose { max-width: 820px; padding: 36px 0 24px; }
+    .prose h1 { font-size: 2.1rem; margin: 0 0 16px; }
+    .prose h2 { font-size: 1.25rem; margin: 28px 0 8px; }
+    .prose p { color: var(--text-body); margin: 0 0 10px; line-height: 1.7; }
+    .note { font-size: 0.85rem; margin-top: 24px; }
+  </style>
+</Base>

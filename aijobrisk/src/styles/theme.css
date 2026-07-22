@@ -1,0 +1,50 @@
+/* ============================================================
+   aijobrisk.com — 主题配色 token
+   来源：从 aijobrisk-design/deepseek/{job-detail,index}.html 提取
+   （冷调蓝系，与现站一致）。后续页面统一 @import / 复制本文件。
+   ============================================================ */
+:root {
+  /* 品牌 / 主色（唯一强调色）*/
+  --brand:            #2563eb;   /* 主蓝：链接 / 主 CTA / 激活态 */
+  --brand-hover:      #1e4fc4;   /* 主蓝按下 / hover */
+  --brand-tint:       #eef2ff;   /* 主蓝极浅底（选中行 / 徽章底）*/
+
+  /* 文字（藏青梯度）*/
+  --text:             #0b1a2e;   /* 最深：标题 */
+  --text-strong:      #1e3a5f;   /* 次级标题 */
+  --text-body:        #2c3e5a;   /* 正文 */
+  --text-muted:       #4b5e7a;   /* 弱化 / 说明 */
+
+  /* 表面 / 背景（冷蓝白梯度）*/
+  --bg:               #f6f9fc;   /* 页面底 */
+  --bg-soft:          #f8faff;   /* 次级底 */
+  --surface:          #ffffff;   /* 卡片 */
+  --surface-tint:     #eaf0f6;   /* 浅蓝面 / hero */
+  --surface-tint-2:   #f0f5fe;   /* 更浅蓝面 */
+  --surface-accent:   #ecf3fa;   /* 强调浅蓝块 */
+  --line:             #dce7f5;   /* 边框 / 分隔线 */
+
+  /* 风险语义色（仅用于风险指示，务必配文字标签，勿单靠颜色）*/
+  --risk-low:         #059669;   /* 低 / 安全（绿）*/
+  --risk-low-bg:      #d1fae5;
+  --risk-mid:         #f59e0b;   /* 中（琥珀）*/
+  --risk-mid-bg:      #fef3c7;
+  --risk-high:        #dc2626;   /* 高 / 危险（红）*/
+  --risk-high-bg:     #fee2e2;
+
+  /* 圆角 / 阴影（与两稿一致的克制风）*/
+  --radius:           12px;
+  --radius-sm:        8px;
+  --shadow:           0 1px 3px rgba(11,26,46,.06), 0 4px 12px rgba(11,26,46,.05);
+}
+
+/* 深色模式（可选，沿用现站冷调深蓝；后续页面按需启用）*/
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:#0b1120; --bg-soft:#0e1526; --surface:#151c2c; --surface-tint:#111a2e;
+    --surface-tint-2:#131d33; --surface-accent:#16223a; --line:#26304a;
+    --text:#e6ebf5; --text-strong:#d3dcf0; --text-body:#c2cbe0; --text-muted:#8b97b0;
+    --brand:#4f8cff; --brand-hover:#6ea1ff; --brand-tint:#16223a;
+    --risk-low:#10b981; --risk-mid:#f59e0b; --risk-high:#ef4444;
+  }
+}

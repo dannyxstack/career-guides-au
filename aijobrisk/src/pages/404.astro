@@ -1,0 +1,21 @@
+---
+import Base from '../layouts/Base.astro';
+import { pageLocale, withL } from '../lib/i18n';
+const loc = pageLocale(Astro);
+---
+<Base title="Not found — AI Job Risk" description="Page not found.">
+  <div class="container nf">
+    <h1>404</h1>
+    <p class="muted">That page could not be found.</p>
+    <div class="acts">
+      <a class="btn primary" href={withL(loc, '/')}>Home</a>
+      <a class="btn" href={withL(loc, '/search')}>Browse occupations</a>
+      <a class="btn" href={withL(loc, '/rankings')}>Rankings</a>
+    </div>
+  </div>
+  <style>
+    .nf { text-align: center; padding: 80px 0; }
+    .nf h1 { font-size: 4rem; margin: 0; color: var(--brand); }
+    .acts { display: flex; gap: 12px; justify-content: center; margin-top: 24px; flex-wrap: wrap; }
+  </style>
+</Base>

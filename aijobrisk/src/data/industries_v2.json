@@ -1,0 +1,406 @@
+{
+ "generated_from": "same as occ_industries_v2",
+ "count": 20,
+ "sectors": [
+  {
+   "id": "admin-support",
+   "name": "Administrative & support & waste services",
+   "occ_total": 5757,
+   "by_country": {
+    "AU": 488,
+    "CA": 511,
+    "DE": 612,
+    "ES": 467,
+    "FR": 506,
+    "IE": 381,
+    "IT": 382,
+    "JP": 306,
+    "KR": 490,
+    "NL": 382,
+    "NZ": 487,
+    "UK": 360,
+    "US": 385
+   }
+  },
+  {
+   "id": "government",
+   "name": "Government & public sector",
+   "occ_total": 5678,
+   "by_country": {
+    "AU": 476,
+    "CA": 508,
+    "DE": 624,
+    "ES": 450,
+    "FR": 473,
+    "IE": 365,
+    "IT": 366,
+    "JP": 301,
+    "KR": 492,
+    "NL": 366,
+    "NZ": 475,
+    "UK": 354,
+    "US": 428
+   }
+  },
+  {
+   "id": "education",
+   "name": "Educational services",
+   "occ_total": 5347,
+   "by_country": {
+    "AU": 461,
+    "CA": 486,
+    "DE": 620,
+    "ES": 413,
+    "FR": 450,
+    "IE": 339,
+    "IT": 340,
+    "JP": 272,
+    "KR": 476,
+    "NL": 340,
+    "NZ": 460,
+    "UK": 354,
+    "US": 336
+   }
+  },
+  {
+   "id": "other-services",
+   "name": "Other services (except public administration)",
+   "occ_total": 5192,
+   "by_country": {
+    "AU": 452,
+    "CA": 463,
+    "DE": 598,
+    "ES": 414,
+    "FR": 456,
+    "IE": 339,
+    "IT": 340,
+    "JP": 276,
+    "KR": 473,
+    "NL": 340,
+    "NZ": 451,
+    "UK": 329,
+    "US": 261
+   }
+  },
+  {
+   "id": "professional",
+   "name": "Professional, scientific & technical services",
+   "occ_total": 5010,
+   "by_country": {
+    "AU": 426,
+    "CA": 458,
+    "DE": 580,
+    "ES": 401,
+    "FR": 435,
+    "IE": 317,
+    "IT": 318,
+    "JP": 258,
+    "KR": 445,
+    "NL": 318,
+    "NZ": 424,
+    "UK": 315,
+    "US": 315
+   }
+  },
+  {
+   "id": "manufacturing",
+   "name": "Manufacturing",
+   "occ_total": 4993,
+   "by_country": {
+    "AU": 419,
+    "CA": 449,
+    "DE": 562,
+    "ES": 402,
+    "FR": 453,
+    "IE": 328,
+    "IT": 329,
+    "JP": 261,
+    "KR": 434,
+    "NL": 329,
+    "NZ": 417,
+    "UK": 304,
+    "US": 306
+   }
+  },
+  {
+   "id": "wholesale",
+   "name": "Wholesale trade",
+   "occ_total": 4993,
+   "by_country": {
+    "AU": 428,
+    "CA": 455,
+    "DE": 561,
+    "ES": 404,
+    "FR": 452,
+    "IE": 325,
+    "IT": 326,
+    "JP": 259,
+    "KR": 445,
+    "NL": 326,
+    "NZ": 426,
+    "UK": 314,
+    "US": 272
+   }
+  },
+  {
+   "id": "retail",
+   "name": "Retail trade",
+   "occ_total": 4748,
+   "by_country": {
+    "AU": 404,
+    "CA": 432,
+    "DE": 551,
+    "ES": 387,
+    "FR": 443,
+    "IE": 313,
+    "IT": 314,
+    "JP": 255,
+    "KR": 416,
+    "NL": 314,
+    "NZ": 403,
+    "UK": 324,
+    "US": 192
+   }
+  },
+  {
+   "id": "health",
+   "name": "Health care & social assistance",
+   "occ_total": 4427,
+   "by_country": {
+    "AU": 360,
+    "CA": 393,
+    "DE": 548,
+    "ES": 348,
+    "FR": 384,
+    "IE": 281,
+    "IT": 281,
+    "JP": 220,
+    "KR": 398,
+    "NL": 281,
+    "NZ": 360,
+    "UK": 322,
+    "US": 251
+   }
+  },
+  {
+   "id": "construction",
+   "name": "Construction",
+   "occ_total": 4173,
+   "by_country": {
+    "AU": 341,
+    "CA": 393,
+    "DE": 502,
+    "ES": 327,
+    "FR": 383,
+    "IE": 265,
+    "IT": 266,
+    "JP": 243,
+    "KR": 370,
+    "NL": 266,
+    "NZ": 340,
+    "UK": 276,
+    "US": 201
+   }
+  },
+  {
+   "id": "management",
+   "name": "Management of companies & enterprises",
+   "occ_total": 4144,
+   "by_country": {
+    "AU": 345,
+    "CA": 392,
+    "DE": 533,
+    "ES": 325,
+    "FR": 370,
+    "IE": 253,
+    "IT": 254,
+    "JP": 207,
+    "KR": 379,
+    "NL": 254,
+    "NZ": 343,
+    "UK": 283,
+    "US": 206
+   }
+  },
+  {
+   "id": "arts",
+   "name": "Arts, entertainment & recreation",
+   "occ_total": 3785,
+   "by_country": {
+    "AU": 306,
+    "CA": 352,
+    "DE": 503,
+    "ES": 300,
+    "FR": 351,
+    "IE": 244,
+    "IT": 245,
+    "JP": 186,
+    "KR": 345,
+    "NL": 245,
+    "NZ": 306,
+    "UK": 259,
+    "US": 143
+   }
+  },
+  {
+   "id": "real-estate",
+   "name": "Real estate & rental",
+   "occ_total": 3698,
+   "by_country": {
+    "AU": 313,
+    "CA": 339,
+    "DE": 494,
+    "ES": 294,
+    "FR": 345,
+    "IE": 228,
+    "IT": 229,
+    "JP": 200,
+    "KR": 340,
+    "NL": 229,
+    "NZ": 312,
+    "UK": 270,
+    "US": 105
+   }
+  },
+  {
+   "id": "information",
+   "name": "Information",
+   "occ_total": 3658,
+   "by_country": {
+    "AU": 288,
+    "CA": 351,
+    "DE": 487,
+    "ES": 281,
+    "FR": 330,
+    "IE": 221,
+    "IT": 222,
+    "JP": 191,
+    "KR": 347,
+    "NL": 222,
+    "NZ": 287,
+    "UK": 271,
+    "US": 160
+   }
+  },
+  {
+   "id": "transport",
+   "name": "Transportation & warehousing",
+   "occ_total": 3233,
+   "by_country": {
+    "AU": 260,
+    "CA": 325,
+    "DE": 426,
+    "ES": 250,
+    "FR": 284,
+    "IE": 199,
+    "IT": 199,
+    "JP": 202,
+    "KR": 278,
+    "NL": 199,
+    "NZ": 259,
+    "UK": 242,
+    "US": 110
+   }
+  },
+  {
+   "id": "hospitality",
+   "name": "Accommodation & food services",
+   "occ_total": 2865,
+   "by_country": {
+    "AU": 236,
+    "CA": 272,
+    "DE": 388,
+    "ES": 226,
+    "FR": 262,
+    "IE": 177,
+    "IT": 178,
+    "JP": 150,
+    "KR": 254,
+    "NL": 178,
+    "NZ": 236,
+    "UK": 217,
+    "US": 91
+   }
+  },
+  {
+   "id": "finance",
+   "name": "Finance & insurance",
+   "occ_total": 2782,
+   "by_country": {
+    "AU": 236,
+    "CA": 242,
+    "DE": 354,
+    "ES": 212,
+    "FR": 250,
+    "IE": 170,
+    "IT": 171,
+    "JP": 134,
+    "KR": 260,
+    "NL": 171,
+    "NZ": 236,
+    "UK": 231,
+    "US": 115
+   }
+  },
+  {
+   "id": "utilities",
+   "name": "Utilities",
+   "occ_total": 2404,
+   "by_country": {
+    "AU": 216,
+    "CA": 240,
+    "DE": 371,
+    "ES": 182,
+    "FR": 204,
+    "IE": 128,
+    "IT": 128,
+    "JP": 128,
+    "KR": 226,
+    "NL": 128,
+    "NZ": 215,
+    "UK": 177,
+    "US": 61
+   }
+  },
+  {
+   "id": "mining",
+   "name": "Mining, quarrying, oil & gas",
+   "occ_total": 2093,
+   "by_country": {
+    "AU": 174,
+    "CA": 212,
+    "DE": 326,
+    "ES": 159,
+    "FR": 166,
+    "IE": 116,
+    "IT": 116,
+    "JP": 137,
+    "KR": 183,
+    "NL": 116,
+    "NZ": 174,
+    "UK": 145,
+    "US": 69
+   }
+  },
+  {
+   "id": "agriculture",
+   "name": "Agriculture, forestry, fishing & hunting",
+   "occ_total": 1956,
+   "by_country": {
+    "AU": 175,
+    "CA": 197,
+    "DE": 305,
+    "ES": 144,
+    "FR": 169,
+    "IE": 115,
+    "IT": 115,
+    "JP": 114,
+    "KR": 158,
+    "NL": 115,
+    "NZ": 174,
+    "UK": 133,
+    "US": 42
+   }
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import RiskMap from '../../components/RiskMap.astro';
+import { buildGlobalRiskMap } from '../../lib/riskmap';
+import { riskMeta } from '../../lib/riskmap-meta';
+import { pageLocale } from '../../lib/i18n';
+
+const loc = pageLocale(Astro);
+const layout = buildGlobalRiskMap();
+const meta = riskMeta(layout, loc);
+---
+<Base
+  title="Global AI Job Risk Map | AI Job Risk"
+  description="A treemap of the global workforce coloured by AI automation exposure — area is workforce, colour is AI risk."
+  active="map"
+>
+  <div class="container map-wrap">
+    <header class="map-head">
+      <h1>AI Job Risk Map — Global</h1>
+      <p class="subhead">Each tile is an occupation; area is its global workforce and colour is AI automation exposure (green = lower, red = higher). Hover for details, click to open the occupation.</p>
+    </header>
+    <RiskMap layout={layout} meta={meta} outlineKey="WORLD" activeKey="WORLD" locale={loc} ariaLabel="Global AI job risk treemap">
+      <span slot="foot">Area ∝ workforce (sum across countries). Colour ∝ AI automation exposure (1–10). Estimates only.</span>
+    </RiskMap>
+  </div>
+  <style>
+    .map-wrap { padding-top: 20px; }
+    .map-head { margin-bottom: 16px; }
+    .map-head h1 { font-size: 2rem; margin: 0 0 8px; }
+    .subhead { color: var(--text-muted); max-width: 760px; margin: 0; }
+  </style>
+</Base>

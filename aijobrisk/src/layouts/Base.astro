@@ -1,0 +1,244 @@
+---
+// 全站布局：aijobrisk-design/deepseek 蓝系主题（index.html / job-detail.html 配色）。
+// 顶部固定白导航 + logo + 语言下拉 + 深浅切换，底部页脚。全局 CSS 既定义设计 token，
+// 也为复用组件（RiskMap/RatingRadar/PollBlock，沿用 --card/--white/--muted/--green/--hero/--amber）提供别名。
+import { SITE_NAME } from '../lib/site-config';
+import { DISPLAY_LOCALES, pageLocale, withL, stripLocale } from '../lib/i18n';
+interface Props {
+  title: string;
+  description?: string;
+  active?: string;      // 当前导航项高亮：rankings/industries/occupations/map/about
+  jsonLd?: any;
+  canonical?: string;
+}
+const { title, description = '', active = '', jsonLd, canonical } = Astro.props as Props;
+const loc = pageLocale(Astro);
+// middleware 已剥语言前缀并 rewrite，故 Astro.url.pathname 即英文裸路径。
+// 语言下拉 / hreflang：以裸路径 + 现有 query 为基准，为每种语言生成对应 URL。
+const bare = stripLocale(Astro.url.pathname);
+const qs = Astro.url.search;
+const localeUrls = DISPLAY_LOCALES.map((d) => ({ ...d, href: withL(d.code, bare) + qs }));
+const canonicalHref = canonical
+  ? (Astro.site ? new URL(canonical, Astro.site).href : canonical)
+  : (Astro.site ? new URL(withL(loc, bare), Astro.site).href : withL(loc, bare));
+const ld = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+const NAV = [
+  { key: 'occupations', label: 'Occupations', href: '/' },
+  { key: 'rankings', label: 'Rankings', href: '/rankings' },
+  { key: 'industries', label: 'Industries', href: '/industries' },
+  { key: 'map', label: 'Risk map', href: '/job-risk-map' },
+  { key: 'compare', label: 'Compare', href: '/compare' },
+  { key: 'about', label: 'About', href: '/about' },
+];
+---
+<!doctype html>
+<html lang={loc}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonicalHref} />
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    {Astro.site && localeUrls.map((d) => (
+      <link rel="alternate" hreflang={d.hreflang} href={new URL(withL(d.code, bare), Astro.site).href} />
+    ))}
+    {Astro.site && <link rel="alternate" hreflang="x-default" href={new URL(bare, Astro.site).href} />}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    {ld.map((b) => <script type="application/ld+json" set:html={JSON.stringify(b)} />)}
+    <script is:inline>
+      // 主题：优先 localStorage，其次系统偏好；避免闪烁在 body 渲染前设定。
+      (function () {
+        try {
+          var t = localStorage.getItem('theme');
+          if (!t) t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          document.documentElement.setAttribute('data-theme', t);
+        } catch (e) {}
+      })();
+    </script>
+    <slot name="head" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-row">
+        <a href={withL(loc, '/')} class="logo-area" aria-label={`${SITE_NAME} home`}>
+          <svg viewBox="0 0 28 28" fill="none" width="28" height="28" aria-hidden="true">
+            <rect x="2" y="2" width="24" height="24" rx="6" stroke="var(--brand)" stroke-width="2" />
+            <path d="M8 19 L14 8 L20 19" stroke="var(--brand)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            <circle cx="14" cy="17" r="1.5" fill="var(--risk-mid)" />
+          </svg>
+          <span>AI Job Risk</span>
+        </a>
+        <nav class="nav-links" aria-label="Primary">
+          {NAV.map((n) => (
+            <a href={withL(loc, n.href)} class:list={[{ on: active === n.key }]}>{n.label}</a>
+          ))}
+        </nav>
+        <div class="nav-tools">
+          <label class="lang-select" title="Language">
+            <i class="fas fa-language" aria-hidden="true"></i>
+            <select aria-label="Select language" onchange="if(this.value)window.location.href=this.value;">
+              {localeUrls.map((d) => (
+                <option value={d.href} selected={d.code === loc}>{d.label}</option>
+              ))}
+            </select>
+          </label>
+          <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle dark mode">🌙</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="site-main"><slot /></main>
+
+    <footer class="site-footer">
+      <div class="container foot-inner">
+        <span>© 2026 {SITE_NAME} — evidence-led AI job-risk analysis. Estimates only; always check official sources.</span>
+        <span class="footer-links">
+          <a href={withL(loc, '/methodology')}>Methodology</a>
+          <a href={withL(loc, '/about')}>About</a>
+          <a href="https://ismyjobaiproof.com" rel="noopener">Personal test</a>
+          <a href="https://aicareergraph.com" rel="noopener">Career transitions</a>
+        </span>
+      </div>
+    </footer>
+
+    <script is:inline>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        if (!btn) return;
+        var sync = function () {
+          var th = document.documentElement.getAttribute('data-theme') || 'light';
+          btn.textContent = th === 'dark' ? '☀️' : '🌙';
+        };
+        sync();
+        btn.addEventListener('click', function () {
+          var cur = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+          var next = cur === 'dark' ? 'light' : 'dark';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+          sync();
+        });
+      })();
+    </script>
+
+    <style is:global>
+      /* ===== 设计 token（源自 aijobrisk-design/theme.css：index.html/job-detail.html 蓝系） ===== */
+      :root {
+        --brand: #2563eb; --brand-hover: #1e4fc4; --brand-tint: #eef2ff;
+        --text: #0b1a2e; --text-strong: #1e3a5f; --text-body: #2c3e5a; --text-muted: #4b5e7a;
+        --bg: #f6f9fc; --bg-soft: #f8faff; --surface: #ffffff; --surface-tint: #eaf0f6;
+        --surface-tint-2: #f0f5fe; --surface-accent: #ecf3fa; --line: #dce7f5;
+        --risk-low: #059669; --risk-low-bg: #d1fae5;
+        --risk-mid: #f59e0b; --risk-mid-bg: #fef3c7;
+        --risk-high: #dc2626; --risk-high-bg: #fee2e2;
+        /* 徽章前景（在对应 *-bg 上保证对比度；深色下翻亮）+ 装饰强调色 */
+        --risk-low-fg: #166534; --risk-mid-fg: #92400e; --risk-high-fg: #991b1b;
+        --accent-purple: #7c3aed; --accent-purple-bg: #eee8f4;
+        --gold-fg: #ae7d2e; --gold-bg: #faefdc; --slate-fg: #4d626d; --slate-bg: #eaeff3;
+        --radius: 12px; --radius-sm: 8px;
+        --shadow: 0 1px 3px rgba(11,26,46,.06), 0 4px 12px rgba(11,26,46,.05);
+        /* —— 复用组件（RiskMap/RatingRadar/PollBlock）别名，映射到蓝系 token —— */
+        --card: var(--surface); --white: var(--text); --muted: var(--text-muted);
+        --green: var(--brand); --hero: var(--surface-tint-2); --amber: var(--risk-mid);
+        --border: var(--line);
+      }
+      /* 深色主题：手动切换（data-theme=dark）与系统偏好（未强制 light 时）各一份，token 级覆盖。 */
+      :root[data-theme="dark"] {
+        --bg:#0b1120; --bg-soft:#0e1526; --surface:#151c2c; --surface-tint:#111a2e;
+        --surface-tint-2:#131d33; --surface-accent:#16223a; --line:#26304a;
+        --text:#e6ebf5; --text-strong:#d3dcf0; --text-body:#c2cbe0; --text-muted:#8b97b0;
+        --brand:#4f8cff; --brand-hover:#6ea1ff; --brand-tint:#16223a;
+        --risk-low:#10b981; --risk-mid:#f59e0b; --risk-high:#ef4444;
+        --risk-low-bg:#0f2e26; --risk-mid-bg:#33270c; --risk-high-bg:#3a1418;
+        --risk-low-fg:#6ee7b7; --risk-mid-fg:#fcd34d; --risk-high-fg:#fca5a5;
+        --accent-purple:#c4b5fd; --accent-purple-bg:#241b3a;
+        --gold-fg:#e3c07a; --gold-bg:#2c2410; --slate-fg:#9fb0bd; --slate-bg:#1c2735;
+        --shadow: 0 1px 3px rgba(0,0,0,.4), 0 4px 12px rgba(0,0,0,.35);
+      }
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme="light"]) {
+          --bg:#0b1120; --bg-soft:#0e1526; --surface:#151c2c; --surface-tint:#111a2e;
+          --surface-tint-2:#131d33; --surface-accent:#16223a; --line:#26304a;
+          --text:#e6ebf5; --text-strong:#d3dcf0; --text-body:#c2cbe0; --text-muted:#8b97b0;
+          --brand:#4f8cff; --brand-hover:#6ea1ff; --brand-tint:#16223a;
+          --risk-low:#10b981; --risk-mid:#f59e0b; --risk-high:#ef4444;
+          --risk-low-bg:#0f2e26; --risk-mid-bg:#33270c; --risk-high-bg:#3a1418;
+          --risk-low-fg:#6ee7b7; --risk-mid-fg:#fcd34d; --risk-high-fg:#fca5a5;
+          --accent-purple:#c4b5fd; --accent-purple-bg:#241b3a;
+          --gold-fg:#e3c07a; --gold-bg:#2c2410; --slate-fg:#9fb0bd; --slate-bg:#1c2735;
+          --shadow: 0 1px 3px rgba(0,0,0,.4), 0 4px 12px rgba(0,0,0,.35);
+        }
+      }
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      body {
+        margin: 0; background: var(--bg); color: var(--text-body);
+        font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+        line-height: 1.55; -webkit-font-smoothing: antialiased;
+      }
+      a { color: var(--brand); text-decoration: none; }
+      a:hover { color: var(--brand-hover); }
+      .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+      @media (max-width: 640px) { .container { padding: 0 16px; } }
+      .site-main { min-height: 60vh; }
+
+      /* ===== 导航 ===== */
+      .site-header { background: var(--surface); border-bottom: 1px solid var(--line);
+        position: sticky; top: 0; z-index: 20; }
+      .nav-row { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 16px; }
+      .logo-area { display: flex; align-items: center; gap: 10px; color: var(--text-strong);
+        font-weight: 700; font-size: 1.15rem; letter-spacing: -0.01em; }
+      .logo-area svg { display: block; flex: none; }
+      .nav-links { display: flex; gap: 26px; font-size: 0.94rem; flex-wrap: wrap; }
+      .nav-links a { color: var(--text-muted); font-weight: 500; transition: color .15s; }
+      .nav-links a:hover, .nav-links a.on { color: var(--brand); }
+      .nav-tools { display: flex; align-items: center; gap: 10px; flex: none; }
+      .lang-select { display: inline-flex; align-items: center; gap: 6px; background: var(--surface-tint-2);
+        border: 1px solid var(--line); border-radius: 40px; padding: 5px 10px 5px 12px; color: var(--text-muted); }
+      .lang-select i { font-size: 0.9rem; }
+      .lang-select select { border: none; background: transparent; font: inherit; font-size: 0.85rem;
+        color: var(--text-strong); font-weight: 500; cursor: pointer; outline: none; max-width: 120px; }
+      .theme-toggle { width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--line);
+        background: var(--surface-tint-2); cursor: pointer; font-size: 0.95rem; line-height: 1;
+        display: inline-flex; align-items: center; justify-content: center; padding: 0; }
+      .theme-toggle:hover { border-color: var(--brand); }
+      @media (max-width: 860px) {
+        .nav-row { height: auto; flex-wrap: wrap; padding: 12px 0; }
+        .nav-links { order: 3; gap: 14px 16px; width: 100%; }
+      }
+
+      /* ===== 页脚 ===== */
+      .site-footer { border-top: 1px solid var(--line); margin-top: 48px; padding: 28px 0 36px;
+        font-size: 0.84rem; color: var(--text-muted); background: var(--surface); }
+      .foot-inner { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px 24px; }
+      .footer-links { display: flex; gap: 18px; flex-wrap: wrap; }
+      .footer-links a { color: var(--text-muted); }
+      .footer-links a:hover { color: var(--brand); }
+
+      /* ===== 共享原子 ===== */
+      .muted { color: var(--text-muted); }
+      .card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius);
+        padding: 20px 22px; box-shadow: var(--shadow); }
+      h1, h2, h3 { color: var(--text-strong); }
+      .btn { display: inline-flex; align-items: center; gap: 8px; padding: 10px 22px; border-radius: 60px;
+        border: 1px solid var(--line); background: var(--surface); color: var(--text-strong);
+        font-weight: 600; font-size: 0.95rem; cursor: pointer; transition: .15s; }
+      .btn:hover { border-color: var(--brand); color: var(--brand); }
+      .btn.primary { background: var(--brand); border-color: var(--brand); color: #fff; }
+      .btn.primary:hover { background: var(--brand-hover); color: #fff; }
+      /* 风险徽章（配文字标签，勿单靠颜色） */
+      .risk-badge { display: inline-flex; align-items: center; gap: 5px; padding: 2px 10px;
+        border-radius: 20px; font-size: 0.75rem; font-weight: 600; white-space: nowrap; }
+      .risk-badge.low { background: var(--risk-low-bg); color: var(--risk-low-fg); }
+      .risk-badge.moderate { background: var(--risk-mid-bg); color: var(--risk-mid-fg); }
+      .risk-badge.high { background: var(--risk-high-bg); color: var(--risk-high-fg); }
+      .risk-badge.critical { background: var(--risk-high-bg); color: var(--risk-high-fg); }
+      .risk-badge.verylow { background: var(--slate-bg); color: var(--slate-fg); }
+    </style>
+  </body>
+</html>

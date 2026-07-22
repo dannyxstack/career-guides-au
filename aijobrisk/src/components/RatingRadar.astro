@@ -1,0 +1,39 @@
+---
+// 放射（雷达）评分图。支持多序列叠加（详情=1，对比=2）。纯 SVG，无运行时依赖。
+interface Series { name: string; color: string; values: number[] }
+interface Props { labels: string[]; series: Series[]; size?: number; max?: number }
+const { labels, series, size = 360, max = 5 } = Astro.props as Props;
+const padX = 88; // 左右额外留白，避免长标签(PR Friendly/Certification)被裁
+const cx = size / 2, cy = size / 2, R = size / 2 - 56;
+const n = labels.length;
+const ang = (i: number) => (-90 + (i * 360) / n) * (Math.PI / 180);
+const pt = (i: number, r: number) => [cx + r * Math.cos(ang(i)), cy + r * Math.sin(ang(i))];
+const rings = [0.25, 0.5, 0.75, 1];
+const labelPos = labels.map((l, i) => { const [x, y] = pt(i, R + 22); return { l, x, y, anchor: Math.abs(Math.cos(ang(i))) < 0.3 ? 'middle' : (Math.cos(ang(i)) > 0 ? 'start' : 'end') }; });
+const poly = (vals: number[]) => vals.map((v, i) => pt(i, (Math.max(0, Math.min(max, v)) / max) * R).join(',')).join(' ');
+---
+<div class="radar">
+  <svg viewBox={`${-padX} 0 ${size + 2 * padX} ${size}`} width="100%" role="img" aria-label="rating radar">
+    {rings.map((rr) => (
+      <polygon points={labels.map((_, i) => pt(i, R * rr).join(',')).join(' ')} class="ring" />
+    ))}
+    {labels.map((_, i) => { const [x, y] = pt(i, R); return <line x1={cx} y1={cy} x2={x} y2={y} class="spoke" />; })}
+    {series.map((s) => (
+      <polygon points={poly(s.values)} fill={s.color} fill-opacity="0.22" stroke={s.color} stroke-width="2.5" />
+    ))}
+    {labelPos.map((p) => <text x={p.x} y={p.y} text-anchor={p.anchor} class="rlabel">{p.l}</text>)}
+  </svg>
+  {series.length > 1 && (
+    <div class="legend">
+      {series.map((s) => <span><i style={`background:${s.color}`}></i>{s.name}</span>)}
+    </div>
+  )}
+</div>
+<style>
+  .radar { width: 100%; max-width: 560px; margin: 0 auto; }
+  .ring { fill: none; stroke: var(--line); stroke-width: 1; }
+  .spoke { stroke: var(--line); stroke-width: 1; }
+  .rlabel { fill: var(--muted); font-size: 12px; }
+  .legend { display: flex; gap: 18px; justify-content: center; margin-top: 8px; font-size: 14px; }
+  .legend i { display: inline-block; width: 12px; height: 12px; border-radius: 2px; margin-right: 6px; vertical-align: middle; }
+</style>

@@ -1,0 +1,115 @@
+---
+import Base from '../../layouts/Base.astro';
+import { SECTORS, sectorIcon, occupationsInSector, type SectorOcc } from '../../lib/industries';
+import { COUNTRIES, countryName } from '../../lib/data';
+import { pageLocale, contentLocale, hrefIndustry, hrefIndustries } from '../../lib/i18n';
+import { expBand } from '../../lib/ui';
+
+const loc = pageLocale(Astro);
+const CL = contentLocale(loc);
+const { country } = Astro.params;
+const cc = country && (COUNTRIES as readonly string[]).includes(country) ? country : 'US';
+
+// 各行业卡的 riskiest（最高暴露）/ safest（最低暴露）职业。因职业↔行业是多对多，
+// 高暴露/低暴露的“明星职业”会横跨很多行业、导致各卡重复。故按显示顺序跨卡去重：
+// 每卡取本行业内、尚未被其它卡用过的极值职业，既保持本行业相关性又让全页不重样。
+const used = new Set<string>();
+const cards = SECTORS
+  .map((s) => ({ s, count: s.by_country[cc] ?? 0 }))
+  .sort((a, b) => b.count - a.count)
+  .map(({ s, count }) => {
+    const withExp = occupationsInSector(cc, s.id).filter((o) => o.aioe != null);
+    const byRisk = [...withExp].sort((a, b) => (b.aioe as number) - (a.aioe as number));
+    const bySafe = [...withExp].sort((a, b) => (a.aioe as number) - (b.aioe as number));
+    const riskiest: SectorOcc | null = byRisk.find((o) => !used.has(o.slug)) || byRisk[0] || null;
+    if (riskiest) used.add(riskiest.slug);
+    const safest: SectorOcc | null =
+      bySafe.find((o) => !used.has(o.slug)) ||
+      bySafe.find((o) => !riskiest || o.slug !== riskiest.slug) || null;
+    if (safest) used.add(safest.slug);
+    return { ...s, count, riskiest, safest };
+  });
+const countryOpts = COUNTRIES.map((c) => ({ c, href: hrefIndustries(loc, c), name: countryName(c, CL) }));
+
+// AI 暴露百分位 → 对应风险颜色（riskiest 偏红/橙、safest 偏绿）
+const riskColor = (aioe: number | null) => {
+  const b = expBand(aioe);
+  return (b.cls === 'critical' || b.cls === 'high') ? 'var(--risk-high)'
+    : b.cls === 'moderate' ? 'var(--risk-mid-fg)' : 'var(--risk-low)';
+};
+---
+<Base
+  title="Industries — AI exposure across 20 sectors | AI Job Risk"
+  description="Explore AI exposure across 20 industry sectors. An occupation can belong to several industries (many-to-many)."
+  active="industries"
+>
+  <div class="container">
+    <header class="ind-head">
+      <h1>Industries</h1>
+      <p class="subhead">Explore AI exposure across <strong>20 industry sectors</strong>. An occupation can belong to several industries (a many-to-many relationship). Use the country selector to view other national datasets.</p>
+      <label class="country-select">
+        <i class="fas fa-globe"></i>
+        <select onchange="if(this.value)window.location.href=this.value;">
+          {countryOpts.map((o) => <option value={o.href} selected={o.c === cc}>{o.name}</option>)}
+        </select>
+      </label>
+    </header>
+
+    <div class="ind-grid">
+      {cards.map((s) => (
+        <a href={hrefIndustry(loc, s.id, cc)} class="ind-card">
+          <div class="ic-head">
+            <span class="ic-icon"><i class={`fas ${sectorIcon(s.id)}`}></i></span>
+            <span class="ic-title">{s.name}</span>
+          </div>
+          <div class="ic-count">{s.count.toLocaleString('en')} occupations</div>
+          {(s.riskiest || s.safest) && (
+            <div class="ic-extremes">
+              {s.riskiest && (
+                <div class="ic-ex"><span class="ie-label"><i class="fas fa-triangle-exclamation"></i> Riskiest</span>
+                  <span class="ie-occ" style={`color:${riskColor(s.riskiest.aioe)}`}>{s.riskiest.name}</span></div>
+              )}
+              {s.safest && (
+                <div class="ic-ex"><span class="ie-label"><i class="fas fa-shield-halved"></i> Safest</span>
+                  <span class="ie-occ" style={`color:${riskColor(s.safest.aioe)}`}>{s.safest.name}</span></div>
+              )}
+            </div>
+          )}
+        </a>
+      ))}
+    </div>
+
+    <div class="provenance card">
+      <strong>Data provenance</strong> — Occupation-to-industry mapping uses the BLS National Employment Matrix (many-to-many; membership threshold ≥1% of the occupation's employment). AI-exposure scores derive from <strong>ILO Working Paper 140</strong> and <strong>Eloundou et al. (OpenAI)</strong>. Scores reflect the occupation overall, not industry-specific. Shown here for {countryName(cc, CL)}.
+    </div>
+  </div>
+
+  <style>
+    .ind-head { padding: 40px 0 24px; }
+    .ind-head h1 { font-size: 2.2rem; margin: 0 0 12px; }
+    .subhead { color: var(--text-muted); max-width: 720px; font-size: 1.05rem; margin: 0 0 20px; }
+    .country-select { display: inline-flex; align-items: center; gap: 8px; background: var(--surface);
+      border: 1px solid var(--line); border-radius: 12px; padding: 8px 14px; box-shadow: var(--shadow); }
+    .country-select i { color: var(--text-muted); }
+    .country-select select { border: none; background: transparent; font: inherit; color: var(--text-strong);
+      font-weight: 500; cursor: pointer; outline: none; }
+    .ind-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; padding: 8px 0 32px; }
+    @media (max-width: 640px) { .ind-grid { grid-template-columns: 1fr; } }
+    .ind-card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 22px 20px;
+      box-shadow: var(--shadow); color: var(--text); transition: .12s; display: block; }
+    .ind-card:hover { transform: translateY(-3px); border-color: var(--brand-tint); box-shadow: 0 8px 22px rgba(11,26,46,.08); }
+    .ic-head { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+    .ic-icon { width: 40px; height: 40px; flex: none; display: flex; align-items: center; justify-content: center;
+      border-radius: 10px; background: var(--brand-tint); color: var(--brand); font-size: 1.1rem; }
+    .ic-title { font-weight: 600; font-size: 1.02rem; color: var(--text-strong); line-height: 1.3; }
+    .ic-title .ind-inline { color: var(--brand); font-size: 0.85em; margin-right: 5px; }
+    .ic-count { font-size: 0.9rem; color: var(--text-muted); margin-bottom: 10px; }
+    .ic-extremes { border-top: 1px solid var(--line); padding-top: 10px; display: flex; flex-direction: column; gap: 6px; }
+    .ic-ex { display: flex; align-items: baseline; gap: 8px; font-size: 0.84rem; }
+    .ie-label { flex: none; color: var(--text-muted); font-size: 0.75rem; font-weight: 600; min-width: 74px; }
+    .ie-label i { margin-right: 4px; font-size: 0.72rem; }
+    .ie-occ { font-weight: 600; }
+    .provenance { font-size: 0.86rem; color: var(--text-muted); line-height: 1.7; margin-bottom: 20px; }
+    .provenance strong { color: var(--text-strong); }
+  </style>
+</Base>

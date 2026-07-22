@@ -459,6 +459,19 @@ FAQ 为第9部分，固定标题为 `## 9. FAQ 常见问题`，包含 6~10 个�
 - 每个语言/国家 URL 的 `<link rel="canonical">` 指向自身（`Base.astro` 已按 `Astro.url.pathname` 自动生成），保证各语言版本各自独立被索引。
 - 与旧版页面（`/[country]/[locale]/…`）内容重叠时，新 `/jobs` 体系 canonical 自指即可，不改动旧页面。
 
+### aijobrisk.com（`aijobrisk/` SSR 站）路由规约
+
+`aijobrisk/` 独立 SSR 站的 URL 结构固定为「**语言在第一级、国家在最后一级**」，英文为默认语言不带前缀：
+
+- **语言（第一级，可选）**：英语裸路径不写语言码；其余语言以 `/{lang}/` 作为最前置前缀。语言码用可真正切换内容的集合 `en / es / fr / de / pt / ja / zh-Hans / ko`（= FAQ「2030」译文覆盖集），经 Astro 内置 i18n（`prefixDefaultLocale:false`）双发，无需复制页面文件。fr/ko/zh-Hans 对 `tr()/strings()` 走英文兜底，仅 FAQ 问句等已有译文的内容按 locale 切换。
+- **国家（最后一级，可选）**：国家码（`AU/US/UK/...`）作为路径末段，取代旧的 `?country=CC` 查询参数；缺省时用页面默认国。
+- **职业详情**：`/jobs/{occupation}/[{country}]`（英）、`/{lang}/jobs/{occupation}/[{country}]`（其余）。取代旧的分类前缀 `/{category}/{slug}` 结构。
+- **行业**：总览 `/industries/[{country}]`、详情 `/industry/{industry}/[{country}]`，各带对应 `/{lang}/` 前缀。
+- **榜单**：单一 catch-all `rankings/[...seg].astro`，国家走路径末级（已弃用 `?country=`）：`/rankings`（hub·默认 US）、`/rankings/{country}`（hub·某国）、`/rankings/{board}`（榜单详情·默认 US）、`/rankings/{board}/{country}`。board id 与国家码不重叠，页面内自行解析区分、无路由冲突；hub 与 board 两视图共用一个文件（`isBoard` 分支）。
+- **对比**：结果页 `/compare/{a}-vs-{b}` 不带国家（用代表国数据）；`/compare` hub 的两个选择框各带国家下拉（client 端按 `sal:{国家→年薪}` 映射切换薪资预览，暴露 aioe 跨国一致），允许挑不同国家的职业比较。
+- **其它页面**（job-risk-map/about/methodology/search）：同样支持 `/{lang}/` 前缀；国家维度沿用各自现有方式。
+- 语言切换在 **nav 语言下拉**触发（跳到对应 `/{lang}/` 路径），不再在页面内并列展示多语言文本。
+
 ## 输出检查清单
 
 生成最终 Markdown 前检查：

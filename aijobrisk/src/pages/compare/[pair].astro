@@ -1,0 +1,244 @@
+---
+import Base from '../../layouts/Base.astro';
+import { jobBySlug, occFull, name as occName, tr, money, countryName, type Occ } from '../../lib/data';
+import { categoryIcon } from '../../lib/industries';
+import { pageLocale, contentLocale, hrefJob, hrefCompare, withL } from '../../lib/i18n';
+import { riskBand10, fmtSalary } from '../../lib/ui';
+
+const loc = pageLocale(Astro);
+const CL = contentLocale(loc);
+const { pair } = Astro.params;
+const parts = (pair || '').split('-vs-');
+if (parts.length !== 2) return new Response('Not found', { status: 404 });
+const ga = jobBySlug(parts[0]);
+const gb = jobBySlug(parts[1]);
+if (!ga || !gb) return new Response('Not found', { status: 404 });
+
+const a = await occFull(ga.rep);
+const b = await occFull(gb.rep);
+const na = occName(a, CL), nb = occName(b, CL);
+
+// —— 分数 ——
+interface Sc { exp: number | null; aioe: number | null; moat: number | null }
+const sc = (o: Occ): Sc => ({ exp: o.ai?.automation_exposure ?? null, aioe: o.ai?.aioe_pct ?? null, moat: o.ai?.human_moat ?? null });
+const sa = sc(a), sb = sc(b);
+const banda = riskBand10(sa.exp), bandb = riskBand10(sb.exp);
+const sevCls = (band: { cls: string }) => (band.cls === 'high' || band.cls === 'critical' ? 'high' : band.cls === 'moderate' ? 'mid' : 'low');
+
+// —— 评分维度取值 ——
+const dimVal = (o: Occ, dim: string): number | null => o.ratings.find((r) => r.dimension === dim)?.stars ?? null;
+const scale = (v: number | null) => (v != null ? `${v}/10` : '—');
+const certLabel = (o: Occ) => { const v = dimVal(o, 'certification_difficulty'); return v == null ? '—' : `${v}/10 (${v >= 7 ? 'High' : v >= 4 ? 'Moderate' : 'Low'})`; };
+function eduSummary(o: Occ): string {
+  if (!o.education || !o.education.length) return '—';
+  const f = o.education[0];
+  const stage = tr(f.stage, CL); const dur = tr(f.duration, CL);
+  const more = o.education.length > 1 ? ` (+${o.education.length - 1} more)` : '';
+  return (dur ? `${stage} · ${dur}` : stage) + more;
+}
+
+// —— 一句话结论（由数据派生，非编造）——
+function verdict(): string {
+  if (!a.ai || !b.ai) return `${na} and ${nb} differ in how AI reshapes their tasks — compare the exposure, human moat and dimensions below.`;
+  const hi = (sa.moat ?? 0) >= (sb.moat ?? 0) ? { n: na, m: sa.moat } : { n: nb, m: sb.moat };
+  const lo = hi.n === na ? { n: nb, m: sb.moat } : { n: na, m: sa.moat };
+  const pay = Number(a.avg_salary ?? 0) >= Number(b.avg_salary ?? 0) ? { n: na, s: a.avg_salary, c: a.country } : { n: nb, s: b.avg_salary, c: b.country };
+  let s = `Both roles face notable AI task exposure (${scale(sa.exp)} vs ${scale(sb.exp)}).`;
+  if (hi.m != null && lo.m != null && hi.m !== lo.m)
+    s += ` ${hi.n}'s deeper human moat (${hi.m}/10 vs ${lo.m}/10) makes it more resilient to AI displacement.`;
+  if (pay.s) s += ` ${pay.n} pays more on average (${fmtSalary(pay.s, pay.c)}).`;
+  return s;
+}
+
+const replacedA = (a.ai?.replaced_zh || []).map((x) => tr(x, CL));
+const replacedB = (b.ai?.replaced_zh || []).map((x) => tr(x, CL));
+const augA = (a.ai?.augmented_zh || []).map((x) => tr(x, CL));
+const augB = (b.ai?.augmented_zh || []).map((x) => tr(x, CL));
+const moatA = (a.ai?.moat_zh || []).map((x) => tr(x, CL));
+const moatB = (b.ai?.moat_zh || []).map((x) => tr(x, CL));
+
+const FAQ = [
+  { q: `Should a ${na.toLowerCase()} retrain toward ${nb.toLowerCase()}?`, a: `It depends on the human moat and pay gap. A deeper moat and higher salary can justify retraining, but weigh the education path and certification barrier shown above. Focus on analytical, advisory and AI-tooling skills either way.` },
+  { q: 'Will AI eliminate these jobs entirely?', a: 'Not entirely. High exposure means routine tasks (data entry, standard drafting, reconciliation) are highly automatable, while judgement, advisory and accountability remain human. Workers who move up into those areas stay valuable.' },
+  { q: 'What does the AI task-exposure score mean?', a: 'The 0–10 score reflects how much of an occupation\'s core tasks could be performed or substantially augmented by generative AI, based on task-exposure research. Higher means greater potential disruption — not a guarantee of job loss.' },
+  { q: 'Where does the data come from?', a: 'Official national labour statistics (e.g. BLS OEWS, O*NET) combined with generative-AI exposure research — ILO Working Paper 140 and Eloundou et al. "GPTs are GPTs" (OpenAI). The ILO paper is a working paper, not peer-reviewed. Figures are estimates and indicative only.' },
+];
+const faqLd = { '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: FAQ.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) };
+---
+<Base title={`${na} vs ${nb}: AI risk comparison | AI Job Risk`}
+  description={`Compare ${na} and ${nb}: AI task exposure, the tasks AI takes over and augments, the human moat, salary, education and demand.`}
+  active="compare" jsonLd={faqLd}>
+  <div class="container cmp">
+    <nav class="breadcrumb"><a href={withL(loc, '/')}>Home</a> <span>/</span> <a href={hrefCompare(loc)}>Compare</a> <span>/</span> {na} vs {nb}</nav>
+
+    <!-- Header + score cards -->
+    <header class="cmp-header">
+      <h1>{na} vs {nb}: AI Risk Comparison</h1>
+      <div class="score-row">
+        {[{ o: a, n: na, s: sa, band: banda }, { o: b, n: nb, s: sb, band: bandb }].map(({ o, n, s, band }) => (
+          <a class="score-card" href={hrefJob(loc, o.slug)}>
+            <div class="occ-label"><i class={`fas ${categoryIcon(o.category)}`}></i> {n}</div>
+            <div class="ai-risk-number">{s.exp != null ? s.exp.toFixed(1) : '—'}<span class="out-of">/10</span></div>
+            <span class={`severity-tag sev-${sevCls(band)}`}>{band.label} risk</span>
+            <div class="exposure-line">
+              {s.aioe != null && <>AI exposure percentile: <b>{s.aioe}/100</b></>}
+              {s.moat != null && <> · Human moat: <b>{s.moat}/10</b></>}
+              <span class="ctry"> · {countryName(o.country, CL)}</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </header>
+
+    <!-- Verdict -->
+    <div class="verdict">{verdict()}</div>
+
+    <!-- Tasks AI takes over -->
+    <section>
+      <h2 class="section-title">Tasks most exposed to AI</h2>
+      <div class="two-col">
+        {[{ n: na, list: replacedA }, { n: nb, list: replacedB }].map(({ n, list }) => (
+          <div class="col-card sec-tint-red">
+            <h3 class="c-red"><i class="fas fa-circle-minus"></i> {n}</h3>
+            {list.length ? <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul> : <p class="muted small">No task data.</p>}
+          </div>
+        ))}
+      </div>
+      <p class="illustrative-note">Task lists come from the occupation's AI-era analysis; headline scores from cited research.</p>
+    </section>
+
+    <!-- Where AI augments -->
+    <section>
+      <h2 class="section-title">Where AI augments</h2>
+      <div class="two-col">
+        {[{ n: na, list: augA }, { n: nb, list: augB }].map(({ n, list }) => (
+          <div class="col-card sec-tint-green">
+            <h3 class="c-green"><i class="fas fa-circle-plus"></i> {n}</h3>
+            {list.length ? <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul> : <p class="muted small">No task data.</p>}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Human moat -->
+    <section>
+      <h2 class="section-title">Human moat</h2>
+      <div class="two-col">
+        {[{ n: na, list: moatA, m: sa.moat }, { n: nb, list: moatB, m: sb.moat }].map(({ n, list, m }) => (
+          <div class="col-card sec-tint-blue">
+            <h3><i class="fas fa-shield-halved" style="color:var(--brand)"></i> {n} · Moat: {m != null ? `${m}/10` : '—'}</h3>
+            {list.length > 0 && <ul class="task-list">{list.map((x) => <li>{x}</li>)}</ul>}
+            {m != null && (
+              <div class="moat-bar">
+                <span class="mb-lbl">{m >= 6 ? 'Deep' : m >= 4 ? 'Moderate' : 'Shallow'}</span>
+                <div class="moat-bar-bg"><div class:list={['moat-bar-fill', { deep: m >= 6, shallow: m < 4 }]} style={`width:${m * 10}%`}></div></div>
+                <span class="mb-val">{m.toFixed(1)}</span>
+              </div>
+            )}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Other dimensions -->
+    <section>
+      <h2 class="section-title">Other dimensions</h2>
+      <div class="dimensions-grid">
+        {[a, b].map((o) => (
+          <div class="dimension-card">
+            <h3>{o === a ? na : nb}</h3>
+            <div class="dim-row"><span class="dim-label">Avg. salary</span><span class="dim-value"><strong>{fmtSalary(o.avg_salary, o.country)}</strong></span></div>
+            <div class="dim-row"><span class="dim-label">Education path</span><span class="dim-value">{eduSummary(o)}</span></div>
+            <div class="dim-row"><span class="dim-label">Certification barrier</span><span class="dim-value">{certLabel(o)}</span></div>
+            <div class="dim-row"><span class="dim-label">Future prospect</span><span class="dim-value">{scale(dimVal(o, 'future_prospect'))}</span></div>
+            <div class="dim-row"><span class="dim-label">Job demand</span><span class="dim-value">{scale(dimVal(o, 'job_demand'))}</span></div>
+            <div class="dim-row"><span class="dim-label">Overall score</span><span class="dim-value">{o.overall_score != null ? `${o.overall_score}/10` : '—'}</span></div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="faq-section">
+      <h2 class="section-title">Frequently asked questions</h2>
+      {FAQ.map((f) => (
+        <details><summary>{f.q}</summary><p>{f.a}</p></details>
+      ))}
+    </section>
+  </div>
+
+  <style>
+    .cmp { padding-bottom: 20px; }
+    .breadcrumb { display: flex; gap: 6px; align-items: center; padding: 18px 0 12px; font-size: 0.85rem; color: var(--text-muted); }
+    .breadcrumb a { color: var(--brand); } .breadcrumb a:hover { text-decoration: underline; }
+
+    .cmp-header { margin-bottom: 28px; }
+    .cmp-header h1 { font-size: clamp(1.7rem, 4vw, 2.25rem); font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; margin: 0 0 20px; }
+    .score-row { display: flex; gap: 16px; flex-wrap: wrap; }
+    .score-card { flex: 1 1 240px; min-width: 200px; background: var(--surface); border: 1px solid var(--line);
+      border-radius: 16px; padding: 22px 26px; box-shadow: var(--shadow); color: var(--text); transition: .12s; }
+    .score-card:hover { border-color: var(--brand); }
+    .occ-label { font-size: 1.02rem; font-weight: 600; color: var(--text-strong); margin-bottom: 8px; }
+    .occ-label i { color: var(--brand); margin-right: 6px; }
+    .ai-risk-number { font-size: 2.25rem; font-weight: 700; line-height: 1; display: flex; align-items: baseline; gap: 8px; }
+    .ai-risk-number .out-of { font-size: 1.05rem; font-weight: 400; color: var(--text-muted); }
+    .severity-tag { display: inline-block; margin-top: 8px; padding: 3px 10px; border-radius: 6px; font-size: 0.68rem;
+      font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+    .sev-high { background: var(--risk-high-bg); color: var(--risk-high-fg); }
+    .sev-mid { background: var(--risk-mid-bg); color: var(--risk-mid-fg); }
+    .sev-low { background: var(--risk-low-bg); color: var(--risk-low-fg); }
+    .exposure-line { font-size: 0.8rem; color: var(--text-muted); margin-top: 10px; }
+    .exposure-line b { color: var(--text-strong); font-weight: 600; }
+    .exposure-line .ctry { color: var(--text-muted); }
+
+    .verdict { background: var(--surface-tint-2); border-left: 4px solid var(--brand); padding: 20px 26px;
+      border-radius: 10px; margin-bottom: 40px; font-size: 1.05rem; line-height: 1.6; color: var(--text-strong); }
+
+    .section-title { font-size: 1.3rem; font-weight: 600; margin: 0 0 18px; letter-spacing: -0.01em; }
+    section { margin-bottom: 40px; }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .dimensions-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .col-card, .dimension-card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px;
+      padding: 20px 22px; box-shadow: var(--shadow); }
+    /* 各板块 col-card 淡背景：同板块同色、不同板块不同色（自动适配深浅；不含 FAQ / 其它维度） */
+    .col-card.sec-tint-red   { background: color-mix(in srgb, var(--risk-high) 7%, var(--surface)); }
+    .col-card.sec-tint-green { background: color-mix(in srgb, var(--risk-low) 8%, var(--surface)); }
+    .col-card.sec-tint-blue  { background: color-mix(in srgb, var(--brand) 7%, var(--surface)); }
+    .col-card h3, .dimension-card h3 { font-size: 1.02rem; font-weight: 600; margin: 0 0 12px; color: var(--text-strong);
+      display: flex; align-items: center; gap: 8px; }
+    .c-red { color: var(--risk-mid-fg) !important; } .c-red i { color: var(--risk-high); }
+    .c-green i { color: var(--risk-low); }
+    .task-list { list-style: none; margin: 0; padding: 0; }
+    .task-list li { position: relative; padding-left: 18px; margin: 7px 0; font-size: 0.88rem; color: var(--text-body); line-height: 1.5; }
+    .task-list li::before { content: "▸"; position: absolute; left: 0; color: var(--brand); font-weight: 700; }
+    .illustrative-note { font-size: 0.72rem; color: var(--text-muted); font-style: italic; margin-top: 10px; text-align: right; }
+
+    .moat-bar { display: flex; align-items: center; gap: 10px; margin-top: 14px; }
+    .mb-lbl { font-size: 0.8rem; color: var(--text-muted); min-width: 62px; }
+    .moat-bar-bg { flex: 1; height: 12px; background: var(--surface-tint); border-radius: 20px; overflow: hidden; }
+    .moat-bar-fill { height: 100%; border-radius: 20px; background: var(--risk-mid); }
+    .moat-bar-fill.deep { background: var(--brand); }
+    .moat-bar-fill.shallow { background: var(--risk-high); }
+    .mb-val { font-size: 0.85rem; font-weight: 600; color: var(--text-strong); min-width: 32px; text-align: right; }
+
+    .dim-row { display: flex; justify-content: space-between; gap: 12px; padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 0.86rem; }
+    .dim-row:last-child { border-bottom: none; }
+    .dim-label { color: var(--text-muted); }
+    .dim-value { color: var(--text-strong); font-weight: 500; text-align: right; }
+
+    .faq-section details { background: var(--surface); border: 1px solid var(--line); border-radius: 10px;
+      padding: 14px 20px; margin-bottom: 10px; box-shadow: var(--shadow); }
+    .faq-section summary { font-weight: 600; cursor: pointer; color: var(--text-strong); font-size: 0.95rem;
+      list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+    .faq-section summary::-webkit-details-marker { display: none; }
+    .faq-section summary::after { content: "+"; font-size: 1.3rem; color: var(--text-muted); line-height: 1; }
+    .faq-section details[open] summary::after { content: "–"; }
+    .faq-section details p { margin: 10px 0 0; color: var(--text-body); font-size: 0.88rem; line-height: 1.6; }
+    .small { font-size: 0.85rem; }
+
+    @media (max-width: 700px) {
+      .two-col, .dimensions-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</Base>

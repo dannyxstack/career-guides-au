@@ -1,0 +1,168 @@
+---
+// 共享的 AI Job Risk Map 画布：分类分块 treemap + 内联世界/国家轮廓水印（可被 CSS 主题控制）。
+// 国家页与全球页共用，保证观感一致：半透明方块（透出背景地图）、弱化的深色水印、深色模式大陆变浅。
+import type { RiskLayout } from '../lib/riskmap';
+import { COUNTRIES, COUNTRY_FLAG, countryName } from '../lib/data';
+import { pageLocale, contentLocale, hrefMap, type Display } from '../lib/i18n';
+import outlinePaths from '../data/outline-paths.json';
+
+interface Meta { n: string; c: string; w: number; r: number; a: number | null; cur: string; u: string; col: string }
+interface Props { layout: RiskLayout; meta: Meta[]; outlineKey: string; ariaLabel: string; activeKey: string; locale?: Display }
+// meta：服务端渲染方块颜色/总人数用，并在 SSR 直接内联给客户端 tooltip（无需外置 fetch）。
+const { layout, meta, outlineKey, ariaLabel, activeKey, locale } = Astro.props as Props;
+const loc = locale || pageLocale(Astro);
+const CL = contentLocale(loc);
+const landPath = (outlinePaths as Record<string, string>)[outlineKey] || '';
+
+const totalWorkers = meta.reduce((s, m) => s + m.w, 0);
+// 分类标题是否放得下 + 截断
+function catLabel(text: string, bw: number) {
+  if (bw < 66) return '';
+  const max = Math.floor(bw / 6.2) - 1;
+  return text.length > max ? text.slice(0, Math.max(1, max - 1)) + '…' : text;
+}
+---
+<nav class="rm-nav" aria-label="Risk maps by region">
+  <span class="rm-nav-lbl">Risk map:</span>
+  <a class:list={['rm-chip', { on: activeKey === 'WORLD' }]} href={hrefMap(loc)}>World</a>
+  {COUNTRIES.map((cc) => (
+    <a class:list={['rm-chip', 'rm-flagchip', { on: activeKey === cc }]}
+       href={hrefMap(loc, cc)} title={`${countryName(cc, CL)} risk map`}>
+      <span class="flag" aria-hidden="true" set:html={COUNTRY_FLAG[cc]} />{cc}
+    </a>
+  ))}
+</nav>
+
+<div class="rm-legend">
+  <span class="lg-label">Lower AI risk</span>
+  <span class="lg-bar"></span>
+  <span class="lg-label">Higher AI risk</span>
+  <span class="lg-sep">·</span>
+  <span class="muted">{layout.total} occupations · {totalWorkers.toLocaleString('en')} workers</span>
+</div>
+
+<div class="rm-wrap">
+  <div class="rm-tip" hidden></div>
+  <svg viewBox={`0 0 ${layout.W} ${layout.H}`} class="rm-svg"
+       preserveAspectRatio="xMidYMid meet" role="img" aria-label={ariaLabel}>
+    <!-- 背景轮廓水印：内联 path（预生成于 scripts/gen_outline_paths.py），由下方 CSS 按主题着色 -->
+    {landPath && (
+      <g class="rm-outline" aria-hidden="true">
+        <path class="rm-land" d={landPath} />
+        <path class="rm-coast" d={landPath} />
+      </g>
+    )}
+    <!-- 职业矩形（半透明，透出背景地图） -->
+    <g class="rm-tiles">
+      {layout.rects.map((r) => (
+        <rect x={r.x} y={r.y} width={r.w} height={r.h} fill={meta[r.i].col} data-i={r.i} />
+      ))}
+    </g>
+    <!-- 分类块标题 -->
+    <g class="rm-cats" aria-hidden="true">
+      {layout.catBlocks.map((b) => {
+        const lbl = catLabel(b.text, b.w);
+        return lbl ? <text x={b.x + 4} y={b.y + 15}>{lbl}</text> : null;
+      })}
+    </g>
+  </svg>
+</div>
+
+<p class="muted rm-foot"><slot name="foot" /></p>
+
+<script is:inline define:vars={{ M: meta }}>
+  (function () {
+    // SSR 内联 meta：tooltip 直接读，无需 fetch。
+    var wrap = document.querySelector('.rm-wrap');
+    if (!wrap) return;
+    var svg = wrap.querySelector('.rm-svg');
+    var tip = wrap.querySelector('.rm-tip');
+    var curr = -1, hi = [];
+    function clearHi() { hi.forEach(function (n) { n.classList.remove('on'); }); hi = []; }
+    function fmt(n) { return n.toLocaleString('en'); }
+    function salary(v, cur) {
+      var n = Number(v);
+      try { return new Intl.NumberFormat('en', { style: 'currency', currency: cur || 'USD', maximumFractionDigits: 0 }).format(n); }
+      catch (e) { return fmt(Math.round(n)) + ' ' + (cur || ''); }
+    }
+    function show(i, evt) {
+      var m = M[i]; if (!m) return;
+      if (i !== curr) {
+        clearHi();
+        hi = Array.prototype.slice.call(svg.querySelectorAll('rect[data-i="' + i + '"]'));
+        hi.forEach(function (n) { n.classList.add('on'); });
+        tip.innerHTML =
+          '<div class="rt-name">' + m.n + '</div>' +
+          '<div class="rt-row"><span>Category</span><b>' + m.c + '</b></div>' +
+          '<div class="rt-row"><span>Workforce</span><b>' + fmt(m.w) + '</b></div>' +
+          '<div class="rt-row"><span>AI risk</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>' +
+          (m.a != null ? '<div class="rt-row"><span>Avg salary</span><b>' + salary(m.a, m.cur) + '</b></div>' : '') +
+          '<div class="rt-hint">Click to open →</div>';
+        tip.hidden = false;
+        curr = i;
+      }
+      var wr = wrap.getBoundingClientRect();
+      var x = evt.clientX - wr.left, y = evt.clientY - wr.top;
+      var tw = tip.offsetWidth, th = tip.offsetHeight;
+      x = Math.min(x + 14, wr.width - tw - 6);
+      y = Math.max(6, y - th - 12);
+      tip.style.left = x + 'px'; tip.style.top = y + 'px';
+    }
+    function hide() { tip.hidden = true; clearHi(); curr = -1; }
+    svg.addEventListener('mousemove', function (e) {
+      var t = e.target;
+      if (t && t.tagName === 'rect' && t.hasAttribute('data-i')) show(+t.getAttribute('data-i'), e);
+      else hide();
+    });
+    svg.addEventListener('mouseleave', hide);
+    svg.addEventListener('click', function (e) {
+      var t = e.target;
+      if (t && t.tagName === 'rect' && t.hasAttribute('data-i')) {
+        var m = M[+t.getAttribute('data-i')]; if (m) location.href = m.u;
+      }
+    });
+  })();
+</script>
+
+<style>
+  /* 区域切换：World 全球 + 各国 AI Risk Map 入口（所有 risk map 通用，当前项高亮） */
+  .rm-nav { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .rm-nav-lbl { font-size: 12px; color: var(--muted); margin-right: 2px; }
+  .rm-chip { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600;
+    color: var(--muted); padding: 2px 8px; border: 1px solid var(--line); border-radius: 999px; }
+  .rm-chip:hover { color: var(--white); border-color: var(--green); }
+  .rm-chip.on { color: var(--green); border-color: var(--green); font-weight: 700; }
+  .rm-flagchip { padding: 2px 8px 2px 6px; }
+  .rm-chip .flagsvg { width: 16px; height: 11px; border-radius: 2px; display: block;
+    box-shadow: 0 0 0 1px var(--line); }
+  .rm-legend { display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+    font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+  .rm-legend .lg-bar { width: 180px; height: 12px; border-radius: 999px;
+    background: linear-gradient(90deg, rgb(16,185,129), rgb(245,158,11), rgb(239,68,68)); }
+  .rm-legend .lg-label { font-weight: 600; color: var(--white); }
+  .rm-legend .lg-sep { color: var(--line); }
+  .rm-wrap { position: relative; background: var(--card); border: 1px solid var(--line);
+    border-radius: 12px; padding: 10px; }
+  .rm-svg { width: 100%; height: auto; display: block; }
+  /* 职业方块：半透明，透出背景地图 */
+  .rm-tiles rect { cursor: pointer; stroke: var(--card); stroke-width: 1px; fill-opacity: .7; }
+  .rm-tiles rect.on { stroke: var(--white); stroke-width: 2px; fill-opacity: .92; }
+  /* 背景地图水印：弱化的深色大陆 + 极淡海岸线；深色模式下大陆改浅色 */
+  .rm-outline { pointer-events: none; }
+  .rm-land { fill: #0b2447; fill-opacity: .24; }
+  .rm-coast { fill: none; stroke: #1b2b4a; stroke-opacity: .3; stroke-width: 1.1; stroke-linejoin: round; }
+  :root[data-theme="dark"] .rm-land { fill: #aab6d0; fill-opacity: .16; }
+  :root[data-theme="dark"] .rm-coast { stroke: #ffffff; stroke-opacity: .18; }
+  .rm-cats text { fill: #fff; font-size: 12.5px; font-weight: 700; opacity: .95;
+    paint-order: stroke; stroke: rgba(0,0,0,.6); stroke-width: 2.4px; pointer-events: none; }
+  .rm-tip { position: absolute; z-index: 20; pointer-events: none; min-width: 180px;
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 9px 11px; box-shadow: 0 8px 24px rgba(0,0,0,.3); font-size: 13px; }
+  /* tooltip 内容由 JS innerHTML 注入，不带 scoped 属性 → 内部选择器须 :global 才生效 */
+  .rm-tip :global(.rt-name) { font-weight: 700; margin-bottom: 5px; color: var(--white); }
+  .rm-tip :global(.rt-row) { display: flex; justify-content: space-between; gap: 16px; color: var(--muted); }
+  .rm-tip :global(.rt-row span) { margin-right: 12px; }
+  .rm-tip :global(.rt-row b) { color: var(--white); font-weight: 600; }
+  .rm-tip :global(.rt-hint) { margin-top: 6px; color: var(--green); font-size: 12px; }
+  .rm-foot { font-size: 12px; margin-top: 10px; }
+</style>
